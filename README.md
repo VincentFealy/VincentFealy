@@ -1,6 +1,6 @@
 # Hi, I'm Vincent 👋
 
-I'm a **Computer Science graduate from Salisbury University** with experience in **software development, cybersecurity, automation, databases, and enterprise IT**.
+I'm a **Computer Science graduate from Salisbury University** with experience in **software development, cybersecurity, automation, databases, and IT**.
 
 I'm interested in opportunities involving software engineering, cybersecurity, data, and technical problem solving.
 
@@ -8,7 +8,7 @@ I'm interested in opportunities involving software engineering, cybersecurity, d
 
 **Languages:** Python, Java, C, C++, JavaScript, SQL, PowerShell, Bash
 
-**Technologies & Tools:** Git, GitHub, REST APIs, Firebase, Windows, Linux, SQL databases
+**Technologies & Tools:** Git, GitHub, REST APIs, Windows, Linux, SQL databases
 
 **Areas:** Software Development, Cybersecurity, Automation, Data Analysis, Database Systems, Networking, Systems Administration
 
@@ -44,14 +44,6 @@ I'm interested in opportunities involving software engineering, cybersecurity, d
 ### Web Development
 
 - **COSC 119 – Introduction to Web Development:** HTML/XHTML, CSS, JavaScript, forms, and web development
-
-## 🚀 Featured Projects
-
-- **CLIMAT3 Literature Database** – Python-based web scraping and literature database project
-- **Golf Course Database** – SQL database with a web-based interface
-- **Android Fitness Application** – Android application using Firebase
-- **Python Automation Projects** – Automation tools developed to process and organize data
-- **Software Engineering Projects** – Team-based software development projects involving requirements, design, implementation, and testing
 
 ## 🎓 Education
 
